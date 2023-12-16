@@ -1,7 +1,7 @@
 * {
   margin: 0;
   font-family: Arial;
-  box-sizing: border-box; /* Fix the typo here */
+  box-sizing: border-box; 
 }
 
 .navbar 
